@@ -14,7 +14,7 @@ This repository implements a Tic-Tac-Toe game in Python for educational purposes
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/PuspanjaliPuhan/Tic-Tac-Toe.git
+https://github.com/PuspanjaliPuhan/Tic-Tac-Toe-game
 ```
 
 2. **Install dependencies:**
